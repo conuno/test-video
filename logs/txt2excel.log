@@ -1,0 +1,19 @@
+﻿2026-10-20 15:37:00 [INFO] Converting 1 report(s) to C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults
+2026-10-20 15:37:00 [INFO] hv_test.txt -> C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults\hv_test.xlsx (10 sections, 26 step rows, 22 prerequisites)
+2026-10-20 15:37:00 [INFO] Done: 1 converted, 0 failed
+2026-10-20 15:37:01 [ERROR] Report not found: .\txtResults\gibtsnicht.txt
+2026-10-20 15:37:01 [INFO] Converting 0 report(s) to C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults
+2026-10-20 15:37:01 [INFO] Done: 0 converted, 1 failed
+2026-10-20 15:37:01 [INFO] Converting 1 report(s) from C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\txtResults to C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults
+2026-10-20 15:37:01 [INFO] hv_test.txt -> C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults\hv_test.xlsx (10 sections, 26 step rows, 22 prerequisites)
+2026-10-20 15:37:01 [INFO] Done: 1 converted, 0 failed
+2026-10-20 15:37:25 [INFO] Converting 1 report(s) to C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults
+2026-10-20 15:37:25 [INFO] autotest_clip.txt -> C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults\autotest_clip.xlsx (1 sections, 1 step rows, 1 prerequisites)
+2026-10-20 15:37:25 [INFO] Done: 1 converted, 0 failed
+2026-10-20 15:37:35 [INFO] Converting 1 report(s) to C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults
+2026-10-20 15:37:36 [ERROR] autotest_clip.txt: Cannot replace C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults\autotest_clip.xlsx (is it open in Excel?): Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist.
+
+2026-10-20 15:37:36 [INFO] Done: 0 converted, 1 failed
+2026-10-20 15:45:15 [INFO] Converting 1 report(s) to C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults
+2026-10-20 15:45:16 [INFO] hv_test.txt -> C:\Users\LinusMüller-Holthuse\OneDrive - conuno GmbH\Desktop\video-test\ClaudCodeOffline\excelResults\hv_test.xlsx (10 sections, 33 step rows, 24 prerequisites)
+2026-10-20 15:45:16 [INFO] Done: 1 converted, 0 failed

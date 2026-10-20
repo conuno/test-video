@@ -1,0 +1,11 @@
+Windows Server 2016+ or Windows 10/11 with Windows PowerShell 5.1, which is preinstalled.
+ffmpeg.exe must be in the folder ffmpeg next to videoqa.ps1 (ffmpeg\ffmpeg.exe).
+Install Claude Code for the Windows account that runs the script: powershell -NoProfile -Command "irm https://claude.ai/install.ps1 | iex"
+Add Claude Code to that account's Path: powershell -NoProfile -Command "[Environment]::SetEnvironmentVariable('Path', [Environment]::GetEnvironmentVariable('Path','User') + ';' + $env:USERPROFILE + '\.local\bin', 'User')"
+Open a new PowerShell window afterwards so the changed Path is used.
+Log in with the Claude subscription: claude auth login --claudeai
+Check the login, it must show "loggedIn": true: claude auth status
+Check the setup end to end, it must print "result : OK": run.bat -TestClaude
+Log out if needed: claude auth logout
+Task Scheduler must run run.bat as the same Windows account that is logged in to Claude Code.
+Keep the script folder outside OneDrive or other synced folders.
